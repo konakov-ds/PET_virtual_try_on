@@ -1,0 +1,5 @@
+../venv
+VITON_test
+ckp
+__pycache__/
+our_t_results
